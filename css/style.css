@@ -1,0 +1,29 @@
+
+
+body{
+    background-color: gainsboro;
+}
+html{
+    font-size:62.5%;
+}
+
+
+
+#waveform{
+    width:70vw;
+    height:50vh;
+    background-image: linear-gradient(to bottom right, rgb(224, 85, 108), bisque);
+    padding-top:15rem;
+    margin:auto;
+    
+}
+.button{
+    margin-left:54rem;
+    margin-top:3rem;
+}
+
+.button img{
+    width:5rem;
+    height:5rem;
+    border:none;
+}
